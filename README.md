@@ -10,12 +10,10 @@ The capacity to generalize to future unseen data stands as one of the utmost cru
 ### BibTex provided below for your citation:
 
 ```
-@misc{wu2023crsam,
-      title={CR-SAM: Curvature Regularized Sharpness-Aware Minimization}, 
+@conference{aaai2024crsam,
+      title={CR-SAM: Curvature Regularized Sharpness-Aware Minimization},
       author={Tao Wu and Tie Luo and Donald C. Wunsch},
-      year={2023},
-      eprint={2312.13555},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      booktitle={Proceedings of AAAI},
+      year={2024},
 }
 ```
